@@ -1,8 +1,9 @@
 # How-to-solve-problems-when-installing-unity
 
 ## 概要
----
 このリポジトリは私がUnityインストール時に公式通りに行い詰まった箇所の解決方法を記す．
+---
+
  
 1.https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
 
