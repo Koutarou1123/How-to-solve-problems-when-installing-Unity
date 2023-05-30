@@ -4,6 +4,10 @@
 このリポジトリは私がUnityインストール時に公式通りに行い詰まった箇所の解決方法を記す．
 ---
 
+### 環境
+- Linux
+- Ubuntu20.04
+
  
 1.https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
 
