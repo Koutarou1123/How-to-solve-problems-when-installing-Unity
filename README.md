@@ -21,3 +21,6 @@ sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/Unity_Technologies_ApS.gpg]
 
 
 # REFERENCE
+---
+1. https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
+2. https://askubuntu.com/questions/1395684/unity3d-installation-issues-gpg-error-repository-not-signed?answertab=modifieddesc#tab-top
