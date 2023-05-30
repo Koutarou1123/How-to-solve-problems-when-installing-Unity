@@ -4,18 +4,16 @@
 ---
 このリポジトリは私がUnityインストール時に公式通りに行い詰まった箇所の解決方法を記す．
  
----
-## 動作環境
-・OS Ubuntu18.04 server  
-・Rasberry Pi 4B
+1.https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
 
----
-## 必要なもの
-・Raspberry Pi 4B  
-・LED×3  
-・ブレッドボード×1  
-・ジャンパー線×6  
-・抵抗(330Ω)×3  
+mistake command
+```
+sudo sh -c 'echo "deb [signedby=/usr/share/keyrings/Unity_Technologies_ApS.gpg] https://hub.unity3d.com/linux/repos/deb stable main" > /etc/apt/sources.list.d/unityhub.list'
+```
+correct command
+```
+sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/Unity_Technologies_ApS.gpg] https://hub.unity3d.com/linux/repos/deb stable main" > /etc/apt/sources.list.d/unityhub.list'
+```
 
----
-## 配線  
+2.origではないactiveファイルを選択
+
