@@ -9,7 +9,7 @@
 - Ubuntu20.04
 
  
-1.https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
+1.手順 https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
 
 mistake command
 ```
